@@ -33,7 +33,8 @@ A conclusão final foi de que a loja 4 obteve menor desempenho em questões de f
 
 ## Agradecimentos
 
-Meus gradecimentos à Alura e à Oracle pelo conteúdo e conhecimento disponibilizado através do curso. <Hello, ONE!>.
+Meus gradecimentos à Alura e à Oracle pelo conteúdo e conhecimento disponibilizado através do curso.  
+<Hello, ONE!>.
 
 ---
 
